@@ -1,0 +1,171 @@
+✅ W&B initialized
+
+🚀 Step 1: Creating taxonomy using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 1: Creating taxonomy using OpenRouter (Gemini 2.0 Flash)...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-9e07-7773-b191-a67802c7f959
+✅ Taxonomy created successfully!
+📊 Themes: 4, Topics: 7
+🔢 Token usage: 822 total (388 in, 434 out)
+📋 Topics found:
+  🎯 Book Recommendations:
+    - Fantasy
+    - Science Fiction
+    - Specific Authors
+  🎯 Book Reviews and Criticism:
+    - Praise
+    - Criticism
+  🎯 Themes and Topics:
+    - Climate Change
+  🎯 Genre Trends:
+    - Epic Fantasy
+💰 Step 1 cost: $0.0016
+
+🚀 Step 2: Extracting claims using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 2: Extracting claims using OpenRouter (Gemini 2.0 Flash)...
+   Processing comment 1/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-b07a-7dd3-b0db-cc892c726715
+   📝 Comment: My favorite fantasy novel is Name of the Wind
+   🎯 Claims extracted: 2
+   Processing comment 2/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-b6eb-77e2-81b1-3af80a83854e
+   📝 Comment: Terra Ignota is the best scifi series of all time
+   🎯 Claims extracted: 1
+   Processing comment 3/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-bc6e-71d3-880a-ea50f7062492
+   📝 Comment: Idk about Kim Stanley Robinson
+   🎯 Claims extracted: 0
+   Processing comment 4/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-c095-7cf9-8135-c7a1b14a042e
+   📝 Comment: Name of the Wind is predictable and hard to read
+   🎯 Claims extracted: 2
+   Processing comment 5/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-c640-7c79-8265-5afd958b779a
+   📝 Comment: Some of Kim Stanley Robinson is boring
+   🎯 Claims extracted: 2
+   Processing comment 6/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-cc6d-755d-85fd-f2252155619d
+   📝 Comment: Terra Ignota gets slow in the middle and hard to f...
+   🎯 Claims extracted: 1
+   Processing comment 7/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-d13d-7cbc-98b0-f4cf6fb10a1e
+   📝 Comment: Ada Palmer is spectacular
+   🎯 Claims extracted: 2
+   Processing comment 8/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-d7f6-73cc-b261-1be7ea62bdab
+   📝 Comment: Becky Chambers has fantastic aliens in her work
+   🎯 Claims extracted: 3
+   Processing comment 9/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-df40-7fd2-9561-215765a73572
+   📝 Comment: Ministry for the Future and Years of Rice and Salt...
+   🎯 Claims extracted: 2
+   Processing comment 10/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-e5d1-7f7d-84d8-08d4e80128f2
+   📝 Comment: Do we still talk about Lord of the Rings or Game o...
+   🎯 Claims extracted: 1
+   Processing comment 11/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-ea72-7376-98fb-b9013ca525e8
+   📝 Comment: What about Ted Chiang he is so good
+   🎯 Claims extracted: 2
+   Processing comment 12/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-f000-7857-be7f-2cdeb3b9e6e0
+   📝 Comment: Greg Egan is really good at characters and plot an...
+   🎯 Claims extracted: 4
+   Processing comment 13/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-f7de-759f-ac0e-2eebdf5d3163
+   📝 Comment: I never finished Accelerando
+   🎯 Claims extracted: 1
+   Processing comment 14/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813f9-fd5d-7647-aacb-ecafa5af0dbb
+   📝 Comment: Ministry for the Future is about the climate trans...
+   🎯 Claims extracted: 1
+   Processing comment 15/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-02d2-73bc-a983-1a352d9afa9b
+   📝 Comment: The climate crisis is a major theme in Ministry fo...
+   🎯 Claims extracted: 1
+   Processing comment 16/16...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-07a4-7b19-b6e8-60f2755248cb
+   📝 Comment: Ministry for the Future is about climate
+   🎯 Claims extracted: 1
+✅ Step 2 completed!
+💰 Step 2 cost: $0.0147
+
+🚀 Step 3: Sorting taxonomy using N/A...
+🚀 Step 3: Sorting taxonomy (no LLM calls) using N/A...
+✅ Taxonomy sorted successfully!
+📊 Total topics: 7, Total claims: 26
+
+🚀 Step 4: Deduplicating claims using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 4: Deduplicating claims using OpenRouter (Gemini 2.0 Flash)...
+   Processing topic 1: Fantasy (1 claims)
+     ⏭️  Skipping Fantasy (only 1 claim)
+   Processing topic 2: Specific Authors (5 claims)
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-0ed0-73bd-a55c-8a617c50f424
+   Processing topic 3: Science Fiction (1 claims)
+     ⏭️  Skipping Science Fiction (only 1 claim)
+   Processing topic 4: Praise (10 claims)
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-1317-7f44-982b-865661daa28e
+     🔍 Found duplicates in Praise
+   Processing topic 5: Criticism (5 claims)
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-17d3-7da7-a3b1-0a80c9bf5082
+   Processing topic 6: Epic Fantasy (1 claims)
+     ⏭️  Skipping Epic Fantasy (only 1 claim)
+   Processing topic 7: Climate Change (3 claims)
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-1c76-733b-95f5-687cf8fe1b59
+     🔍 Found duplicates in Climate Change
+✅ Step 4 completed!
+💰 Step 4 cost: $0.0017
+🔍 Duplicate groups found: 3
+  📝 Ministry for the Future is a compelling story.
+    📋 Duplicates: 1
+  📝 Greg Egan excels in character development.
+    📋 Duplicates: 2
+  📝 The climate crisis is a significant theme in 'Ministry for the Future'.
+    📋 Duplicates: 1
+
+🚀 Step 5: Generating structured JSON using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 5: Generating structured JSON output using OpenRouter (Gemini 2.0 Flash)...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/019813fa-213d-7a9d-98b7-0e8f79ac36fb
+🔍 Debug - Raw response content: ```json
+{
+  "data": [
+    "v0.2",
+    {
+      "title": "test_run",
+      "description": "T3C Pipeline Analysis Results",
+      "addOns": {},
+      "topics": [
+        {
+          "id": "a1b2c3d4-e5f6-...
+🔍 Debug - Parsed JSON keys: ['data']
+🔍 Debug - Data array length: 2
+🔍 Debug - Number of topics: 4
+✅ Structured JSON generated successfully!
+📊 Generated 4 topics
+💰 Step 5 cost: $0.0104
+
+🚀 Generating final T3C report...
+
+💰 COST SUMMARY for OpenRouter (Gemini 2.0 Flash):
+   Estimated: $0.0263
+   Actual: $0.0285
+   Token-based: $0.0285
+   Accuracy: 0.0% of estimate
+   💡 OpenAI equivalent cost: ~$0.3794
+   💰 Savings vs OpenAI: ~$0.3510 (92.5%)
+
+📊 PIPELINE SUMMARY:
+   Provider: OpenRouter (Gemini 2.0 Flash)
+   Model: google/gemini-2.0-flash-001
+   Comments processed: 16
+   Themes identified: 4
+   Topics identified: 7
+   Claims extracted: 26
+   Duplicate groups: 3
+   Total tokens used: 21,011
+   Processing time: 42.19 seconds
+
+📋 CSV Log: test_run,provider_comparison,07/16/2025 09:03:56,16,N/A,0.0263,0.0285,0.0285,0.0016,0.0147,0.0017,4,7,26
+
+✅ Pipeline completed successfully with OpenRouter (Gemini 2.0 Flash)!
+📊 Final report generated and logged to W&B
+📄 Structured JSON saved to: results/test_run_structured_output.json

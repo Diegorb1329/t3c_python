@@ -1,0 +1,16 @@
+{"time":"2025-07-15T14:53:33.860122-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python/wandb/run-20250715_145333-hwcaosy8/logs/debug-core.log"}
+{"time":"2025-07-15T14:53:34.014795-06:00","level":"INFO","msg":"created new stream","id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:34.015464-06:00","level":"INFO","msg":"stream: started","id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:34.015529-06:00","level":"INFO","msg":"handler: started","stream_id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:34.015714-06:00","level":"INFO","msg":"sender: started","stream_id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:34.015714-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:34.411398-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-15T14:53:49.156091-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-15T14:53:49.163143-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-15T14:53:50.161319-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-hwcaosy8-t3c_report","runtime_seconds":1.011826417},{"desc":"updating run config","runtime_seconds":0.984424042}],"total_operations":2}}
+{"time":"2025-07-15T14:53:51.050808-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T14:53:52.194866-06:00","level":"INFO","msg":"stream: closing","id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:52.19517-06:00","level":"INFO","msg":"handler: closed","stream_id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:52.195666-06:00","level":"INFO","msg":"sender: closed","stream_id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:52.195419-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hwcaosy8"}
+{"time":"2025-07-15T14:53:52.196942-06:00","level":"INFO","msg":"stream: closed","id":"hwcaosy8"}

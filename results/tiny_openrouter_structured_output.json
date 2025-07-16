@@ -1,0 +1,109 @@
+{
+  "data": [
+    "v0.2",
+    {
+      "title": "tiny_openrouter",
+      "description": "T3C Pipeline Analysis Results",
+      "addOns": {},
+      "topics": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "name": "Narrative Elements",
+          "subtopics": [
+            {
+              "id": "b2c3d4e5-f678-9012-3456-7890abcdef01",
+              "name": "Better Character Conversations",
+              "claims": [
+                {
+                  "id": "c3d4e5f6-7890-1234-5678-90abcdef0123",
+                  "claimNumber": 1,
+                  "quote": {
+                    "interview": "Anonymous #1",
+                    "text": "Better conversations between characters",
+                    "startIdx": 0,
+                    "endIdx": 40
+                  },
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "d4e5f678-9012-3456-7890-abcdef012345",
+              "name": "Plausible Utopia",
+              "claims": [
+                {
+                  "id": "e5f67890-1234-5678-90ab-cdef01234567",
+                  "claimNumber": 1,
+                  "quote": {
+                    "interview": "Anonymous #2",
+                    "text": "Plausible paths to utopia",
+                    "startIdx": 0,
+                    "endIdx": 28
+                  },
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "f6789012-3456-7890-abcd-ef0123456789",
+              "name": "Special Individuals",
+              "claims": [
+                {
+                  "id": "78901234-5678-90ab-cdef-0123456789ab",
+                  "claimNumber": 1,
+                  "quote": {
+                    "interview": "Anonymous #3",
+                    "text": "Magical elements where individuals are special and beloved by the universe",
+                    "startIdx": 0,
+                    "endIdx": 79
+                  },
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "89012345-6789-0abc-def0-1234567890cd",
+          "name": "Worldbuilding",
+          "subtopics": [
+            {
+              "id": "90123456-7890-abcd-ef01-234567890cde",
+              "name": "Epic Fantasy Worlds",
+              "claims": [
+                {
+                  "id": "01234567-890a-bcde-f012-34567890cdef",
+                  "claimNumber": 1,
+                  "quote": {
+                    "interview": "Anonymous #4",
+                    "text": "More epic fantasy worlds",
+                    "startIdx": 0,
+                    "endIdx": 25
+                  },
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "12345678-90ab-cdef-0123-4567890cdef0",
+              "name": "Interesting World-Building",
+              "claims": [
+                {
+                  "id": "23456789-0abc-def0-1234-567890cdef01",
+                  "claimNumber": 1,
+                  "quote": {
+                    "interview": "Anonymous #5",
+                    "text": "Interesting world-building",
+                    "startIdx": 0,
+                    "endIdx": 26
+                  },
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

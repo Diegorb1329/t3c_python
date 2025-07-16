@@ -1,0 +1,105 @@
+✅ W&B initialized
+
+🚀 Step 1: Creating taxonomy using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 1: Creating taxonomy using OpenRouter (Gemini 2.0 Flash)...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-1aad-71bc-99b2-90a5c26166b2
+2025-07-15 14:47:57,656 - 13256118272 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-1aad-71bc-99b2-90a5c26166b2
+✅ Taxonomy created successfully!
+📊 Themes: 3, Topics: 5
+🔢 Token usage: 587 total (252 in, 335 out)
+📋 Topics found:
+  🎯 Worldbuilding:
+    - Epic Fantasy Worlds
+    - Interesting World-Building
+    - Plausible Utopia
+  🎯 Character Interaction:
+    - Better Conversations
+  🎯 Magical Elements:
+    - Special Individuals
+💰 Step 1 cost: $0.0012
+
+🚀 Step 2: Extracting claims using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 2: Extracting claims using OpenRouter (Gemini 2.0 Flash)...
+   Processing comment 1/5...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-2659-758c-be54-7d0d0284bed6
+2025-07-15 14:48:00,608 - 13222539264 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-2659-758c-be54-7d0d0284bed6
+   📝 Comment: More epic fantasy worlds
+   🎯 Claims extracted: 1
+   Processing comment 2/5...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-2a73-7364-a16f-936828660487
+2025-07-15 14:48:01,654 - 13306486784 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-2a73-7364-a16f-936828660487
+   📝 Comment: Better conversations between characters
+   🎯 Claims extracted: 1
+   Processing comment 3/5...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-2e8d-7038-8b77-381ef11b34b9
+2025-07-15 14:48:02,704 - 13222539264 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-2e8d-7038-8b77-381ef11b34b9
+   📝 Comment: Interesting world-building
+   🎯 Claims extracted: 1
+   Processing comment 4/5...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-328d-7ac5-a85b-2ebffb265cf3
+2025-07-15 14:48:03,727 - 13306486784 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-328d-7ac5-a85b-2ebffb265cf3
+   📝 Comment: Plausible paths to utopia
+   🎯 Claims extracted: 1
+   Processing comment 5/5...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-366f-783d-ae2f-494720213e85
+2025-07-15 14:48:04,722 - 13289697280 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-366f-783d-ae2f-494720213e85
+   📝 Comment: Magical elements where individuals are special and...
+   🎯 Claims extracted: 1
+✅ Step 2 completed!
+💰 Step 2 cost: $0.0036
+
+🚀 Step 3: Sorting taxonomy using N/A...
+🚀 Step 3: Sorting taxonomy (no LLM calls) using N/A...
+✅ Taxonomy sorted successfully!
+📊 Total topics: 5, Total claims: 5
+
+🚀 Step 4: Deduplicating claims using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 4: Deduplicating claims using OpenRouter (Gemini 2.0 Flash)...
+   Processing topic 1: Epic Fantasy Worlds (1 claims)
+     ⏭️  Skipping Epic Fantasy Worlds (only 1 claim)
+   Processing topic 2: Interesting World-Building (1 claims)
+     ⏭️  Skipping Interesting World-Building (only 1 claim)
+   Processing topic 3: Plausible Utopia (1 claims)
+     ⏭️  Skipping Plausible Utopia (only 1 claim)
+   Processing topic 4: Better Conversations (1 claims)
+     ⏭️  Skipping Better Conversations (only 1 claim)
+   Processing topic 5: Special Individuals (1 claims)
+     ⏭️  Skipping Special Individuals (only 1 claim)
+✅ Step 4 completed!
+💰 Step 4 cost: $0.0000
+🔍 No duplicates found
+
+🚀 Step 5: Generating structured JSON using OpenRouter (Gemini 2.0 Flash)...
+🚀 Step 5: Generating structured JSON output using OpenRouter (Gemini 2.0 Flash)...
+[36m[1mweave[0m: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-3da8-7940-bde3-e2cfe848a77c
+2025-07-15 14:48:06,585 - 13239328768 - op.py-op:113 - INFO: 🍩 https://wandb.ai/gainforest/deepgov_pipeline_enhanced/r/call/01980fd8-3da8-7940-bde3-e2cfe848a77c
+✅ Structured JSON generated successfully!
+📊 Generated 3 topics
+💰 Step 5 cost: $0.0012
+
+🚀 Generating final T3C report...
+
+💰 COST SUMMARY for OpenRouter (Gemini 2.0 Flash):
+   Estimated: $0.0117
+   Actual: $0.0060
+   Token-based: $0.0060
+   Accuracy: 0.0% of estimate
+   💡 OpenAI equivalent cost: ~$0.0799
+   💰 Savings vs OpenAI: ~$0.0739 (92.5%)
+
+📊 PIPELINE SUMMARY:
+   Provider: OpenRouter (Gemini 2.0 Flash)
+   Model: google/gemini-2.0-flash-001
+   Comments processed: 5
+   Themes identified: 3
+   Topics identified: 5
+   Claims extracted: 5
+   Duplicate groups: 0
+   Total tokens used: 5,745
+   Processing time: 17.65 seconds
+
+📋 CSV Log: tiny_openrouter,provider_comparison,07/15/2025 13:48:08,5,N/A,0.0117,0.006,0.006,0.0012,0.0036,0.0,3,5,5
+
+✅ Pipeline completed successfully with OpenRouter (Gemini 2.0 Flash)!
+📊 Final report generated and logged to W&B
+📄 Structured JSON saved to: results/tiny_openrouter_structured_output.json

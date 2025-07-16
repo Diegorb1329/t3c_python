@@ -1,0 +1,16 @@
+{"time":"2025-07-15T14:33:00.383662-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python/wandb/run-20250715_143300-exmid50o/logs/debug-core.log"}
+{"time":"2025-07-15T14:33:00.576448-06:00","level":"INFO","msg":"created new stream","id":"exmid50o"}
+{"time":"2025-07-15T14:33:00.577142-06:00","level":"INFO","msg":"stream: started","id":"exmid50o"}
+{"time":"2025-07-15T14:33:00.577358-06:00","level":"INFO","msg":"handler: started","stream_id":"exmid50o"}
+{"time":"2025-07-15T14:33:00.577399-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"exmid50o"}
+{"time":"2025-07-15T14:33:00.577487-06:00","level":"INFO","msg":"sender: started","stream_id":"exmid50o"}
+{"time":"2025-07-15T14:33:00.891709-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-15T14:33:10.293622-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-15T14:33:10.300648-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-15T14:33:11.304704-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-exmid50o-sort_tree","runtime_seconds":1.438247542},{"desc":"uploading artifact run-exmid50o-dedup_subclaims","runtime_seconds":1.2367712499999999},{"desc":"uploading artifact run-exmid50o-t3c_report","runtime_seconds":1.015677875}],"total_operations":3}}
+{"time":"2025-07-15T14:33:11.751043-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T14:33:12.955537-06:00","level":"INFO","msg":"stream: closing","id":"exmid50o"}
+{"time":"2025-07-15T14:33:12.956193-06:00","level":"INFO","msg":"handler: closed","stream_id":"exmid50o"}
+{"time":"2025-07-15T14:33:12.956718-06:00","level":"INFO","msg":"sender: closed","stream_id":"exmid50o"}
+{"time":"2025-07-15T14:33:12.956476-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"exmid50o"}
+{"time":"2025-07-15T14:33:12.95816-06:00","level":"INFO","msg":"stream: closed","id":"exmid50o"}

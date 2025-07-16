@@ -1,0 +1,16 @@
+{"time":"2025-07-15T13:25:55.711713-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python/wandb/run-20250715_132555-o43nekfq/logs/debug-core.log"}
+{"time":"2025-07-15T13:25:55.85371-06:00","level":"INFO","msg":"created new stream","id":"o43nekfq"}
+{"time":"2025-07-15T13:25:55.854211-06:00","level":"INFO","msg":"stream: started","id":"o43nekfq"}
+{"time":"2025-07-15T13:25:55.854207-06:00","level":"INFO","msg":"handler: started","stream_id":"o43nekfq"}
+{"time":"2025-07-15T13:25:55.854575-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"o43nekfq"}
+{"time":"2025-07-15T13:25:55.854581-06:00","level":"INFO","msg":"sender: started","stream_id":"o43nekfq"}
+{"time":"2025-07-15T13:25:56.189309-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-15T13:26:08.770612-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-15T13:26:08.779615-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-15T13:26:09.772291-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-o43nekfq-row_to_claims","runtime_seconds":1.536601458},{"desc":"uploading artifact run-o43nekfq-sort_tree","runtime_seconds":1.3846194170000001},{"desc":"uploading artifact run-o43nekfq-dedup_subclaims","runtime_seconds":1.22587775},{"desc":"uploading artifact run-o43nekfq-t3c_report","runtime_seconds":1.007579334}],"total_operations":4}}
+{"time":"2025-07-15T13:26:10.406863-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T13:26:11.654221-06:00","level":"INFO","msg":"stream: closing","id":"o43nekfq"}
+{"time":"2025-07-15T13:26:11.654808-06:00","level":"INFO","msg":"handler: closed","stream_id":"o43nekfq"}
+{"time":"2025-07-15T13:26:11.655382-06:00","level":"INFO","msg":"sender: closed","stream_id":"o43nekfq"}
+{"time":"2025-07-15T13:26:11.655187-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"o43nekfq"}
+{"time":"2025-07-15T13:26:11.656642-06:00","level":"INFO","msg":"stream: closed","id":"o43nekfq"}

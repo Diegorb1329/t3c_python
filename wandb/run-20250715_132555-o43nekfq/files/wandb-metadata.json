@@ -1,0 +1,46 @@
+{
+  "os": "macOS-15.5-x86_64-i386-64bit",
+  "python": "CPython 3.11.5",
+  "startedAt": "2025-07-15T19:25:55.691370Z",
+  "args": [
+    "--csv-file",
+    "/Users/DiegoRB/Desktop/deepgov_pipeline/Examples_csv/tiny.csv",
+    "--provider",
+    "openrouter"
+  ],
+  "program": "/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python/main.py",
+  "codePath": "main.py",
+  "email": "diego@gainforest.net",
+  "root": "/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python",
+  "host": "MacBook-Pro-de-Dra.local",
+  "executable": "/Users/DiegoRB/.pyenv/versions/3.11.5/bin/python",
+  "codePathLocal": "main.py",
+  "cpu_count": 14,
+  "cpu_count_logical": 14,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "719148421120"
+    },
+    "/System/Volumes/Data": {
+      "total": "994662584320",
+      "used": "719148421120"
+    }
+  },
+  "memory": {
+    "total": "38654705664"
+  },
+  "cpu": {
+    "count": 14,
+    "countLogical": 14
+  },
+  "apple": {
+    "name": "Unknown",
+    "ecpuCores": 4,
+    "pcpuCores": 10,
+    "gpuCores": 30,
+    "memoryGb": 36,
+    "swapTotalBytes": "3221225472",
+    "ramTotalBytes": "38654705664"
+  }
+}

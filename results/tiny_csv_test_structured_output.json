@@ -1,0 +1,105 @@
+{
+  "data": [
+    "v0.2",
+    {
+      "title": "tiny_csv_test",
+      "description": "T3C Pipeline Analysis Results",
+      "addOns": {},
+      "topics": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "name": "Worldbuilding",
+          "subtopics": [
+            {
+              "id": "fedcba98-7654-3210-fedc-ba9876543210",
+              "name": "Epic Fantasy Worlds",
+              "claims": [
+                {
+                  "id": "01234567-89ab-cdef-0123-456789abcdef",
+                  "number": 1,
+                  "quote": "More epic fantasy worlds",
+                  "startIdx": 0,
+                  "endIdx": 25,
+                  "source": "Anonymous #1",
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "98765432-10fe-dcba-9876-543210fedcba",
+              "name": "Interesting World-Building",
+              "claims": [
+                {
+                  "id": "abcdef01-2345-6789-abcd-ef0123456789",
+                  "number": 1,
+                  "quote": "Interesting world-building",
+                  "startIdx": 0,
+                  "endIdx": 26,
+                  "source": "Anonymous #1",
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+              "name": "Plausible Utopia",
+              "claims": [
+                {
+                  "id": "f2e3d4c5-b6a7-98f9-e0d1-c2b3a4f5e6d7",
+                  "number": 1,
+                  "quote": "Plausible paths to utopia",
+                  "startIdx": 0,
+                  "endIdx": 28,
+                  "source": "Anonymous #1",
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+          "name": "Character Interaction",
+          "subtopics": [
+            {
+              "id": "7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+              "name": "Better Conversations",
+              "claims": [
+                {
+                  "id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+                  "number": 1,
+                  "quote": "Better conversations between characters",
+                  "startIdx": 0,
+                  "endIdx": 39,
+                  "source": "Anonymous #1",
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+          "name": "Magical Elements",
+          "subtopics": [
+            {
+              "id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9bc0",
+              "name": "Special Individuals",
+              "claims": [
+                {
+                  "id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9bc0d1",
+                  "number": 1,
+                  "quote": "Magical elements where individuals are special and beloved by the universe",
+                  "startIdx": 0,
+                  "endIdx": 82,
+                  "source": "Anonymous #1",
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

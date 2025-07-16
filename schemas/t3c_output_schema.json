@@ -1,0 +1,251 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string",
+          "const": "v0.2"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "title": {
+              "type": "string",
+              "description": "Title of the analysis"
+            },
+            "description": {
+              "type": "string",
+              "description": "Description of the analysis"
+            },
+            "addOns": {
+              "type": "object",
+              "properties": {},
+              "additionalProperties": false
+            },
+            "topics": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "UUID for the topic"
+                  },
+                  "title": {
+                    "type": "string",
+                    "description": "Title of the topic"
+                  },
+                  "description": {
+                    "type": "string",
+                    "description": "Description of the topic"
+                  },
+                  "subtopics": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "description": "UUID for the subtopic"
+                        },
+                        "title": {
+                          "type": "string",
+                          "description": "Title of the subtopic"
+                        },
+                        "description": {
+                          "type": "string",
+                          "description": "Description of the subtopic"
+                        },
+                        "claims": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "id": {
+                                "type": "string",
+                                "description": "UUID for the claim"
+                              },
+                              "title": {
+                                "type": "string",
+                                "description": "Title of the claim"
+                              },
+                              "quotes": {
+                                "type": "array",
+                                "items": {
+                                  "type": "object",
+                                  "properties": {
+                                    "id": {
+                                      "type": "string",
+                                      "description": "UUID for the quote"
+                                    },
+                                    "text": {
+                                      "type": "string",
+                                      "description": "The quote text"
+                                    },
+                                    "reference": {
+                                      "type": "object",
+                                      "properties": {
+                                        "id": {
+                                          "type": "string",
+                                          "description": "UUID for the reference"
+                                        },
+                                        "sourceId": {
+                                          "type": "string",
+                                          "description": "UUID for the source"
+                                        },
+                                        "interview": {
+                                          "type": "string",
+                                          "description": "Interview identifier"
+                                        },
+                                        "data": {
+                                          "type": "array",
+                                          "items": [
+                                            {
+                                              "type": "string",
+                                              "const": "text"
+                                            },
+                                            {
+                                              "type": "object",
+                                              "properties": {
+                                                "startIdx": {
+                                                  "type": "integer",
+                                                  "description": "Start index of the quote"
+                                                },
+                                                "endIdx": {
+                                                  "type": "integer",
+                                                  "description": "End index of the quote"
+                                                }
+                                              },
+                                              "required": ["startIdx", "endIdx"],
+                                              "additionalProperties": false
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "required": ["id", "sourceId", "interview", "data"],
+                                      "additionalProperties": false
+                                    }
+                                  },
+                                  "required": ["id", "text", "reference"],
+                                  "additionalProperties": false
+                                }
+                              },
+                              "number": {
+                                "type": "integer",
+                                "description": "Sequential number for the claim"
+                              },
+                              "similarClaims": {
+                                "type": "array",
+                                "items": {
+                                  "type": "object",
+                                  "properties": {
+                                    "id": {
+                                      "type": "string",
+                                      "description": "UUID for the similar claim"
+                                    },
+                                    "title": {
+                                      "type": "string",
+                                      "description": "Title of the similar claim"
+                                    },
+                                    "quotes": {
+                                      "type": "array",
+                                      "items": {
+                                        "type": "object",
+                                        "properties": {
+                                          "id": {
+                                            "type": "string",
+                                            "description": "UUID for the quote"
+                                          },
+                                          "text": {
+                                            "type": "string",
+                                            "description": "The quote text"
+                                          },
+                                          "reference": {
+                                            "type": "object",
+                                            "properties": {
+                                              "id": {
+                                                "type": "string",
+                                                "description": "UUID for the reference"
+                                              },
+                                              "sourceId": {
+                                                "type": "string",
+                                                "description": "UUID for the source"
+                                              },
+                                              "interview": {
+                                                "type": "string",
+                                                "description": "Interview identifier"
+                                              },
+                                              "data": {
+                                                "type": "array",
+                                                "items": [
+                                                  {
+                                                    "type": "string",
+                                                    "const": "text"
+                                                  },
+                                                  {
+                                                    "type": "object",
+                                                    "properties": {
+                                                      "startIdx": {
+                                                        "type": "integer",
+                                                        "description": "Start index of the quote"
+                                                      },
+                                                      "endIdx": {
+                                                        "type": "integer",
+                                                        "description": "End index of the quote"
+                                                      }
+                                                    },
+                                                    "required": ["startIdx", "endIdx"],
+                                                    "additionalProperties": false
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            "required": ["id", "sourceId", "interview", "data"],
+                                            "additionalProperties": false
+                                          }
+                                        },
+                                        "required": ["id", "text", "reference"],
+                                        "additionalProperties": false
+                                      }
+                                    },
+                                    "number": {
+                                      "type": "integer",
+                                      "description": "Sequential number for the similar claim"
+                                    },
+                                    "similarClaims": {
+                                      "type": "array",
+                                      "items": {},
+                                      "description": "Empty array for nested similar claims"
+                                    }
+                                  },
+                                  "required": ["id", "title", "quotes", "number", "similarClaims"],
+                                  "additionalProperties": false
+                                }
+                              }
+                            },
+                            "required": ["id", "title", "quotes", "number", "similarClaims"],
+                            "additionalProperties": false
+                          }
+                        }
+                      },
+                      "required": ["id", "title", "description", "claims"],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": ["id", "title", "description", "subtopics"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["title", "description", "addOns", "topics"],
+          "additionalProperties": false
+        }
+      ]
+    }
+  },
+  "required": ["data"],
+  "additionalProperties": false
+} 

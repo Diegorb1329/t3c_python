@@ -1,0 +1,16 @@
+{"time":"2025-07-15T14:34:46.65588-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python/wandb/run-20250715_143446-obyeovni/logs/debug-core.log"}
+{"time":"2025-07-15T14:34:46.808236-06:00","level":"INFO","msg":"created new stream","id":"obyeovni"}
+{"time":"2025-07-15T14:34:46.808971-06:00","level":"INFO","msg":"stream: started","id":"obyeovni"}
+{"time":"2025-07-15T14:34:46.809184-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"obyeovni"}
+{"time":"2025-07-15T14:34:46.809235-06:00","level":"INFO","msg":"handler: started","stream_id":"obyeovni"}
+{"time":"2025-07-15T14:34:46.809374-06:00","level":"INFO","msg":"sender: started","stream_id":"obyeovni"}
+{"time":"2025-07-15T14:34:47.110452-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-15T14:35:04.792351-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-15T14:35:04.79792-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-15T14:35:05.796294-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-obyeovni-t3c_report","runtime_seconds":1.007780625}],"total_operations":1}}
+{"time":"2025-07-15T14:35:06.325585-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T14:35:07.624359-06:00","level":"INFO","msg":"stream: closing","id":"obyeovni"}
+{"time":"2025-07-15T14:35:07.624848-06:00","level":"INFO","msg":"handler: closed","stream_id":"obyeovni"}
+{"time":"2025-07-15T14:35:07.625875-06:00","level":"INFO","msg":"sender: closed","stream_id":"obyeovni"}
+{"time":"2025-07-15T14:35:07.625613-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"obyeovni"}
+{"time":"2025-07-15T14:35:07.627551-06:00","level":"INFO","msg":"stream: closed","id":"obyeovni"}

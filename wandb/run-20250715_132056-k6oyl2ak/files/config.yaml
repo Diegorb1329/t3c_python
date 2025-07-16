@@ -1,0 +1,49 @@
+$_in_10K:
+    value: 0.0075
+$_out_10K:
+    value: 0.03
+_wandb:
+    value:
+        cli_version: 0.19.2
+        m: []
+        python_version: 3.11.5
+        t:
+            "1":
+                - 49
+                - 55
+                - 86
+                - 92
+                - 95
+                - 96
+                - 97
+                - 105
+            "2":
+                - 49
+                - 55
+                - 86
+                - 92
+                - 95
+                - 96
+                - 97
+                - 105
+            "3":
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.11.5
+            "5": 0.19.2
+            "8":
+                - 5
+            "12": 0.19.2
+            "13": darwin-x86_64
+base_url:
+    value: https://openrouter.ai/api/v1
+cost_guess:
+    value: 0.011676754000908217
+model:
+    value: google/gemini-2.0-flash-001
+provider:
+    value: OpenRouter (Gemini 2.0 Flash)
+use_openrouter:
+    value: true

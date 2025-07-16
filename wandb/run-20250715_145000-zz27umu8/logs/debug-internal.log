@@ -1,0 +1,16 @@
+{"time":"2025-07-15T14:50:01.166714-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/Users/DiegoRB/Desktop/deepgov_pipeline/t3c_python/wandb/run-20250715_145000-zz27umu8/logs/debug-core.log"}
+{"time":"2025-07-15T14:50:01.310466-06:00","level":"INFO","msg":"created new stream","id":"zz27umu8"}
+{"time":"2025-07-15T14:50:01.31121-06:00","level":"INFO","msg":"handler: started","stream_id":"zz27umu8"}
+{"time":"2025-07-15T14:50:01.311309-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"zz27umu8"}
+{"time":"2025-07-15T14:50:01.311311-06:00","level":"INFO","msg":"stream: started","id":"zz27umu8"}
+{"time":"2025-07-15T14:50:01.311527-06:00","level":"INFO","msg":"sender: started","stream_id":"zz27umu8"}
+{"time":"2025-07-15T14:50:01.633819-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-15T14:50:55.68548-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-15T14:50:55.692829-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-15T14:50:56.691164-06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-zz27umu8-t3c_report","runtime_seconds":1.015746459}],"total_operations":1}}
+{"time":"2025-07-15T14:50:57.017266-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T14:50:58.309236-06:00","level":"INFO","msg":"stream: closing","id":"zz27umu8"}
+{"time":"2025-07-15T14:50:58.309975-06:00","level":"INFO","msg":"handler: closed","stream_id":"zz27umu8"}
+{"time":"2025-07-15T14:50:58.310184-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zz27umu8"}
+{"time":"2025-07-15T14:50:58.31067-06:00","level":"INFO","msg":"sender: closed","stream_id":"zz27umu8"}
+{"time":"2025-07-15T14:50:58.312558-06:00","level":"INFO","msg":"stream: closed","id":"zz27umu8"}

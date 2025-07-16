@@ -1,0 +1,188 @@
+{
+  "data": [
+    "v0.2",
+    {
+      "title": "uuid_test_run",
+      "description": "T3C Pipeline Analysis Results",
+      "addOns": {},
+      "topics": [
+        {
+          "id": "5702e957-67ba-4dbf-aec7-bb090393570b",
+          "title": "Worldbuilding",
+          "description": "Topics related to worldbuilding in stories.",
+          "subtopics": [
+            {
+              "id": "5bca3e6e-40dd-4e01-b6e5-0405c34dce4d",
+              "title": "Epic Fantasy Worlds",
+              "description": "Discussions about the creation and exploration of epic fantasy worlds.",
+              "claims": [
+                {
+                  "id": "e0331538-acdc-4116-b91d-841315873272",
+                  "title": "Demand for More Epic Fantasy Worlds",
+                  "quotes": [
+                    {
+                      "id": "68fea38e-8aed-4d5e-ba1f-d2aa706d8da3",
+                      "text": "More epic fantasy worlds",
+                      "reference": {
+                        "id": "38eabf23-b7de-4166-bf97-99fa562a80ab",
+                        "sourceId": "e0948b8a-f062-4f11-ad8b-f8745d615274",
+                        "interview": "Anonymous #1",
+                        "data": [
+                          "text",
+                          {
+                            "startIdx": 0,
+                            "endIdx": 24
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "number": 1,
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "08bef3c4-57a3-476c-b034-52dae255464e",
+              "title": "Interesting World-Building",
+              "description": "Focus on the importance and appeal of interesting world-building in storytelling.",
+              "claims": [
+                {
+                  "id": "0f45cab3-48a2-4d94-b717-91e978f23d7c",
+                  "title": "Importance of World-Building",
+                  "quotes": [
+                    {
+                      "id": "173e53f8-d3c9-4353-ae0b-dd36b80d4018",
+                      "text": "Interesting world-building",
+                      "reference": {
+                        "id": "240a0638-d1ef-4e42-9d9a-fc6930a31433",
+                        "sourceId": "29c80572-829a-4230-b9f1-d34ad295f5b1",
+                        "interview": "Anonymous #3",
+                        "data": [
+                          "text",
+                          {
+                            "startIdx": 0,
+                            "endIdx": 26
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "number": 1,
+                  "similarClaims": []
+                }
+              ]
+            },
+            {
+              "id": "d2a2f696-5ce6-4245-9a5d-3952ade53cea",
+              "title": "Plausible Utopia",
+              "description": "Exploration of realistic and achievable utopian societies in narratives.",
+              "claims": [
+                {
+                  "id": "fdb327ed-3770-46aa-a35a-5626f8235fd4",
+                  "title": "Need for Plausible Paths to Utopia",
+                  "quotes": [
+                    {
+                      "id": "0cca0f40-4478-4071-8c65-1a94bd37e6c2",
+                      "text": "Plausible paths to utopia",
+                      "reference": {
+                        "id": "b537cc6e-cd78-4b5b-be18-fb52a23388c0",
+                        "sourceId": "082a8d75-d4c2-4776-96f3-a6f0ad3144b5",
+                        "interview": "Anonymous #4",
+                        "data": [
+                          "text",
+                          {
+                            "startIdx": 0,
+                            "endIdx": 27
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "number": 1,
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2823486-096a-4931-b1da-4f237acd2eb6",
+          "title": "Character Interaction",
+          "description": "Focuses on the dynamics and quality of interactions between characters.",
+          "subtopics": [
+            {
+              "id": "5fdf732f-7efe-4dae-b1d1-5593b096832b",
+              "title": "Better Conversations",
+              "description": "Emphasis on improving the depth and meaning of conversations between characters.",
+              "claims": [
+                {
+                  "id": "3b4ef3fe-4f0c-404e-8bb6-417fbe941064",
+                  "title": "Desire for Better Character Conversations",
+                  "quotes": [
+                    {
+                      "id": "a67dd646-1a5b-4cfe-8765-8d42ea3a56cc",
+                      "text": "Better conversations between characters",
+                      "reference": {
+                        "id": "2a8f4a0d-c48e-468d-a1dd-760ba1e2e2df",
+                        "sourceId": "c21490a1-1497-49cc-86d8-d36c33949758",
+                        "interview": "Anonymous #2",
+                        "data": [
+                          "text",
+                          {
+                            "startIdx": 0,
+                            "endIdx": 39
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "number": 1,
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f611c183-86d5-4503-8805-43d120798eb5",
+          "title": "Magical Elements",
+          "description": "Exploration of magical systems and their impact on individuals.",
+          "subtopics": [
+            {
+              "id": "78270f71-1110-467a-bb12-12cdd816b409",
+              "title": "Special Individuals",
+              "description": "Focus on characters with unique magical abilities and their significance.",
+              "claims": [
+                {
+                  "id": "a3078164-11a9-4785-8d4f-a430f901119c",
+                  "title": "Preference for Special and Beloved Individuals",
+                  "quotes": [
+                    {
+                      "id": "811e19b9-b176-4165-808f-7ee891e23c27",
+                      "text": "Magical elements where individuals are special and beloved by the universe",
+                      "reference": {
+                        "id": "09b03bc2-da3f-48f3-a9dd-3e1ae4398c24",
+                        "sourceId": "1888b12e-1b46-4b1b-b3ce-8f02009e6755",
+                        "interview": "Anonymous #5",
+                        "data": [
+                          "text",
+                          {
+                            "startIdx": 0,
+                            "endIdx": 78
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "number": 1,
+                  "similarClaims": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
